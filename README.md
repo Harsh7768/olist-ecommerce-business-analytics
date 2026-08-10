@@ -58,7 +58,7 @@ The business generated **16.01M in revenue** across approximately **99K orders**
 
 The category and state breakdowns then reveal where that performance is coming from and where management should focus next.
 
-![Power BI Executive Overview](02_PowerBI_Executive_Overview.png)
+![Power BI Executive Overview](./Screenshots/02_PowerBI_Executive_Overview.png)
 
 *Executive overview combining core KPIs with monthly revenue trends, top product categories and top revenue-generating states.*
 
@@ -111,7 +111,7 @@ These differences create an opportunity to improve logistics performance and cus
 
 The analysis also identified state-level cancellation differences, with **GO at 0.65%** and **MG at 0.63%**, making these locations worth investigating for potential cancellation drivers.
 
-![Power BI Executive Insights](04_PowerBI_Executive_Insights.png)
+![Power BI Executive Insights](./Screenshots/04_PowerBI_Executive_Insights.png)
 
 *Executive insights connecting revenue concentration, category performance, customer experience and operational findings to management-level observations.*
 
@@ -141,7 +141,7 @@ The analysis was converted into three major business priorities:
 
 **Action:** Maintain service quality in the core SP market while investigating cancellation drivers in GO and MG.
 
-![Decision Support Priorities](01_Decision_Support_Priorities.png)
+![Decision Support Priorities](./Screenshots/01_Decision_Support_Priorities.png)
 
 *Decision-support view translating analysis into clear business priorities and management actions.*
 
@@ -168,7 +168,7 @@ The analysis creates a practical watchlist around four areas:
 - 🛍️ **Category Opportunity** — high-volume categories and revenue/order improvement
 - 🌎 **Geographic Concentration** — dependence on the largest revenue-generating state
 
-![Decision Support Actions](03_Decision_Support_Actions.png)
+![Decision Support Actions](./Screenshots/03_Decision_Support_Actions.png)
 
 *Prioritized recommendations and management watchlist showing how the analysis can be converted into concrete business actions.*
 
@@ -200,7 +200,7 @@ The Excel analysis focuses on:
 
 The annual analysis shows substantial growth from 2017 to 2018, while **2016 is treated as a partial-year period and excluded from YoY growth calculations** to avoid a misleading comparison.
 
-![Excel Executive KPI Review](05_Excel_Executive_KPI_Review.png)
+![Excel Executive KPI Review](./Screenshots/05_Excel_Executive_KPI_Review.png)
 
 *Excel executive KPI review presenting the business in a concise management-reporting format.*
 
@@ -223,7 +223,7 @@ The Excel reporting layer provides a focused view of revenue and order growth.
 
 This provides management with a straightforward view of how business scale changed between the primary operating years.
 
-![Excel KPI Trends](06_Excel_KPI_Trends.png)
+![Excel KPI Trends](./Screenshots/06_Excel_KPI_Trends.png)
 
 *Annual revenue and order trends supporting performance review and growth analysis.*
 
@@ -325,10 +325,10 @@ The strongest focus is on the ability to **analyze business performance, communi
 
 ---
 
-# 👤 About
+## 👤 About
 
-**Harsh**
-B.Tech Electrical Engineering Graduate — **Delhi Technological University (DTU)**
+**Harsh**  
+B.Tech Graduate from **Delhi Technological University (DTU)** focused on Data Analytics, Business Intelligence, and Business Decision Support.
 
 Interested in analyst opportunities across:
 
@@ -361,5 +361,4 @@ The complete project, including the analysis workflow and supporting files, is a
 
 > ⭐ **Built with a business-first mindset: turning data into insights, insights into decisions, and decisions into measurable business opportunities.**
 
-```
 ```
